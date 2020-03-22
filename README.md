@@ -14,9 +14,6 @@ A simple website to tell the world a little bit about myself
 
 ## MIT License
 
-The following directories and their contents are Copyright Tom Preston-Werner.
-You may not reuse anything therein without my permission:
-
 All other directories and files are MIT Licensed. Feel free to use the HTML and
 CSS as you please. If you do use them, a link back to
 [HERE](https://serfati.github.io/serfati_webpage/) would be appreciated, but is not required.
